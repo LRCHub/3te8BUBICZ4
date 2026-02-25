@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "HE IS MINE",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2026-02-25T11:04:34.164403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "He Is Mine and I Am His",
+      "artist": "The Hoppers",
+      "has_synced": true,
+      "path": "select/01_He_Is_Mine_and_I_Am_His_The_Hoppers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "He Is Mine",
+      "artist": "Arjan Dhillon, MXRCI",
+      "has_synced": true,
+      "path": "select/02_He_Is_Mine_Arjan_Dhillon,_MXRCI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HE IS MINE",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_HE_IS_MINE_クリープハイプ.txt"
+    }
+  ]
+}
